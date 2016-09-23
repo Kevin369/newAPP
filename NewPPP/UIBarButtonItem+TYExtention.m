@@ -9,17 +9,15 @@
 #import "UIBarButtonItem+TYExtention.h"
 
 @implementation UIBarButtonItem (TYExtention)
+
 +(instancetype)itemWithImageNamed:(NSString *)imageName  target:(id)target action:(SEL)action
 {
     UIButton * btn = [[UIButton alloc]init];
     [btn setImage:[UIImage imageNamed:imageName] forState:UIControlStateNormal];
     NSString * highImageName = [imageName stringByAppendingString:@"-click"];
-    //    NSLog(@"%@",highImageName);
-    
     [btn setImage:[UIImage imageNamed:highImageName] forState:UIControlStateHighlighted];
     [btn addTarget:target action:action forControlEvents:UIControlEventTouchUpInside];
     [btn sizeToFit];
-    
     return [[UIBarButtonItem alloc]initWithCustomView:btn];
 }
 
