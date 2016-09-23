@@ -1,0 +1,16 @@
+//
+//  PrefixHeader.pch
+//  NewPPP
+//
+//  Created by ihaveuKevin on 16/9/22.
+//  Copyright © 2016年 Kevin. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#import "UIImage+TYExtention.h"
+#import "UIView+TYExtention.h"
+#import "UIBarButtonItem+TYExtention.h"
+
+
+#endif /* PrefixHeader_pch */
