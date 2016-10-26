@@ -46,7 +46,11 @@
 }
 
 
+<<<<<<< HEAD
 /**
+=======
+/*
+>>>>>>> 91db01130e5c7e6d9d640c630b57debccf57d7b0
  *  创建子控制
  *
  *  @param title           控制器的tilte

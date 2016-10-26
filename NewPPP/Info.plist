@@ -22,6 +22,11 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+<<<<<<< HEAD
+=======
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+>>>>>>> 91db01130e5c7e6d9d640c630b57debccf57d7b0
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
 	<key>UIRequiredDeviceCapabilities</key>

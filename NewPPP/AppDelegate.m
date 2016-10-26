@@ -32,6 +32,7 @@
     //设置根控制器
     self.window.rootViewController = [[TYRootViewcontroller alloc]init];
     [self.window makeKeyAndVisible];
+<<<<<<< HEAD
     
     
     //MARK:设置启动页
@@ -68,6 +69,8 @@
                          
                      }];
 
+=======
+>>>>>>> 91db01130e5c7e6d9d640c630b57debccf57d7b0
 
     
     // Override point for customization after application launch.

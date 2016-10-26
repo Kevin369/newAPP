@@ -730,7 +730,10 @@
 			baseConfigurationReference = B0D2D343B01B849693277511 /* Pods-NewPPP.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+<<<<<<< HEAD
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+=======
+>>>>>>> 91db01130e5c7e6d9d640c630b57debccf57d7b0
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = NewPPP/PrefixHeader.pch;
 				INFOPLIST_FILE = NewPPP/Info.plist;
@@ -746,7 +749,10 @@
 			baseConfigurationReference = 7E0F2F172C39A6CDCBE0314B /* Pods-NewPPP.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+<<<<<<< HEAD
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+=======
+>>>>>>> 91db01130e5c7e6d9d640c630b57debccf57d7b0
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = NewPPP/PrefixHeader.pch;
 				INFOPLIST_FILE = NewPPP/Info.plist;
